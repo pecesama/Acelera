@@ -1,7 +1,8 @@
-Acelera 1.0 by Pedro Santana
+# Acelera 1.0 by Pedro Santana
 
 Connect an Arduino to the ADXL345 breakout board.
 
+```
 #############################
 # Arduino PIN # ADXL345 Pin #
 #############################
@@ -12,3 +13,4 @@ Connect an Arduino to the ADXL345 breakout board.
 #    3V3      #     VCC     #
 #    Gnd      #     GND     #
 #############################
+```
